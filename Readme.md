@@ -22,7 +22,7 @@ This is an sample page. This page focuses on implementing the basics of HTML and
 
 ## Deployed Version Link
 
-- [Live Demo]()
+- [Live Demo](https://street-style-landing-page-op.netlify.app/)
 
 ## Snapshot of Webpage
 
