@@ -26,4 +26,4 @@ This is an sample page. This page focuses on implementing the basics of HTML and
 
 ## Snapshot of Webpage
 
-![Desktop view](./screenshots/Thumbnail.png)
+![Desktop view](./blob/master/Screenshots/Thumbnail.png)
